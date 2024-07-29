@@ -5,8 +5,8 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Document</title>
-  <link rel="stylesheet" href="{{ asset('yahya.css') }}" />
-  <script src="{{ asset('yahya.js') }}"></script>
+  <link rel="stylesheet" href="{{ URL::asset('yahya.css') }}" />
+  <script src="{{ URL::asset('yahya.js') }}"></script>
 </head>
 
 <body>
