@@ -4,7 +4,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Document</title>
+  <title>Yahya TV</title>
+  <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
   <link rel="stylesheet" href="{{ URL::asset('/css/yahya.css') }}" />
   <script src="{{ URL::asset('/js/yahya.js') }}"></script>
 </head>
